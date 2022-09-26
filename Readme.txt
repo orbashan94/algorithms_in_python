@@ -1,6 +1,3 @@
-Algorithms in Python – Full Course for Beginners
-https://www.youtube.com/watch?v=fW_OS3LGB9Q
-
 1. Simple Recursive Algorithms:
    Examples:
             A - Basic Factorials
